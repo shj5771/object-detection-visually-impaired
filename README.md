@@ -1,2 +1,2 @@
 # Test
-디스부 ~조 개발 Repository입니다
+디스부 1조 개발 Repository입니다
