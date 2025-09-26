@@ -31,7 +31,11 @@
 
 ---
 ## 시연 영상
-![1-ezgif com-optimize (2)](https://github.com/user-attachments/assets/b34d1c13-9d25-4c8c-95e9-d9224974ff90)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b34d1c13-9d25-4c8c-95e9-d9224974ff90" 
+       alt="시연 영상" width="300"/>
+</p>
 
 
 ##  역할 및 기여
