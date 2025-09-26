@@ -31,7 +31,7 @@
 
 ---
 ## 시연 영상
-![Uploading 1-ezgif.com-speed.gif…]()
+![1-ezgif com-optimize (2)](https://github.com/user-attachments/assets/b34d1c13-9d25-4c8c-95e9-d9224974ff90)
 
 
 ##  역할 및 기여
